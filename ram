@@ -1,0 +1,6 @@
+public class Ram{
+    public static void main {
+    System.out.println("hello ram");
+
+    }
+}
